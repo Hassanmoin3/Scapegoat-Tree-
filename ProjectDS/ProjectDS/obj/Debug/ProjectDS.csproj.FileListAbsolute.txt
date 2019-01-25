@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\bin\Debug\ProjectDS.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\bin\Debug\ProjectDS.exe
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\bin\Debug\ProjectDS.pdb
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\obj\Debug\ProjectDS.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\obj\Debug\ProjectDS.exe
+c:\users\dell\documents\visual studio 2013\Projects\ProjectDS\ProjectDS\obj\Debug\ProjectDS.pdb
